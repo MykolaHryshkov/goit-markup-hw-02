@@ -65,7 +65,7 @@ body {
     color: #ffffff;
 }
 
-.button_order {
+.button_service {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -76,8 +76,8 @@ body {
     cursor: pointer;
 
 }
-.button_order:hover,
-.button_order:focus {
+.button_service:hover,
+.button_service:focus {
     background-color: #404BBF;
 }
 
