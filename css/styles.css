@@ -5,6 +5,17 @@ body {
     font-size: 16px;
     letter-spacing: 0.02em; }
 
+    .header_logotipe {
+        color: #4D5AE5;        ;
+        font-family: Raleway;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 21px;
+            letter-spacing: 3%;
+            vertical-align: middle;
+            text-transform: uppercase;
+    }
+
 .header_logo {
     color: #2E2F42;
     font-family: Raleway;
