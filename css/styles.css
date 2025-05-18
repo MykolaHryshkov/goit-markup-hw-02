@@ -5,7 +5,7 @@ body {
     font-size: 16px;
     letter-spacing: 0.02em; }
 
-.header-logo-studio {
+.header_logo_studio {
     color: #2E2F42;
     font-family: Raleway;
     font-weight: 700;
@@ -16,7 +16,7 @@ body {
     text-transform: uppercase;
 }
 
-.header-logo-web {
+.header_logo_web {
     color: #4D5AE5;
     font-family: Raleway;
     font-weight: 700;
@@ -27,7 +27,7 @@ body {
     text-transform: uppercase;
 }
 
-.header-menu-link {
+.header_menu_link {
     color: #2E2F42;    ;
     font-family: Roboto;
     font-weight: 500;
@@ -36,13 +36,13 @@ body {
     letter-spacing: 2%;
 }
 
-.header-menu-link:hover,
-.header-menu-link:focus {
+.header_menu_link:hover,
+.header_menu_link:focus {
     color: #404BBF; 
 }
 
-.header-address:hover,
-.header-address:focus {
+.header_address:hover,
+.header_address:focus {
     color: aqua;
 }
 
