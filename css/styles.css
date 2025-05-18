@@ -81,7 +81,7 @@ body {
     background-color: #404BBF;
 }
 
-.strategy {
+.hsection2 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -89,52 +89,7 @@ body {
     color: #2e2f42;
 }
 
-.pstrategy {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.punctuality {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.ppunctuality {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.diligence {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.pdiligence {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.technologies {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.ptechnologies {
+.phsection2 {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
