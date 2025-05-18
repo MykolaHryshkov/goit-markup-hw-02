@@ -43,12 +43,13 @@ body {
 
 .header_address {
     font-style: normal;
+    color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
 .header_address:hover,
 .header_address:focus {
-    color: aqua;
+    color: #404bbf;
 }
 
