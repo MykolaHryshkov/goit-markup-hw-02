@@ -76,7 +76,15 @@ body {
     cursor: pointer;
 
 }
-.header_address:hover,
-.header_address:focus {
+.button_order:hover,
+.button_order:focus {
     background-color: #404BBF;
+}
+
+.strategy {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
