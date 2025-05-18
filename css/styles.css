@@ -53,3 +53,30 @@ body {
     color: #404bbf;
 }
 
+.effective_solutions {
+    background-color: #2e2f42;
+}
+
+.heffective_solutions {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.button_order {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+
+}
+.header_address:hover,
+.header_address:focus {
+    background-color: #404BBF;
+}
